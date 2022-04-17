@@ -53,5 +53,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Tests File(s)
+# Test(s)
+*.gcda
+*.gcno
+
+# Arguments File(s)
 listes/

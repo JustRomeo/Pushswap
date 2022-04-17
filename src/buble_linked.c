@@ -5,7 +5,7 @@
 ** HEADER
 */
 
-#include "include/prototype.h"
+#include "prototype.h"
 
 int laucher(linked_list_t *l_a)
 {

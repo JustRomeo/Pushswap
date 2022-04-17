@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2018
 ** prototype.h
 ** File description:
-** #include "include/prototype.h"
+** #include "prototype.h"
 */
 
 #include <stdio.h>

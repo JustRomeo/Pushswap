@@ -5,7 +5,7 @@
 ** HEADER
 */
 
-#include "include/prototype.h"
+#include "prototype.h"
 
 void argtotab(int ac, char **argv, int *tab)
 {

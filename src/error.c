@@ -5,7 +5,7 @@
 ** HEADER
 */
 
-#include "include/prototype.h"
+#include "prototype.h"
 
 int error(int ac, char **argv)
 {

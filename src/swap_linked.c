@@ -5,7 +5,7 @@
 ** HEADER
 */
 
-#include "include/prototype.h"
+#include "prototype.h"
 
 void swap_linked(linked_list_t **l)
 {
